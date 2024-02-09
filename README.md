@@ -13,3 +13,6 @@ Esta ferramenta foi desenvolvida com a finalidade de automatizar o envio de e-ma
 ## Link de acesso:
 
 Para acessar o aplicativo, clique no seguinte link: [Gerador de E-mails - Release](https://vandreborba.github.io/gerador_email_release/)
+
+## erros conhecidos:
+- O copiar dinamicamente não funciona na web, apenas esqueci de retirar o botão. Mas vou deixar assim por enquanto. :)
