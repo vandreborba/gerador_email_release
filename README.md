@@ -1,10 +1,15 @@
-# Este app é para usar apenas de servidores do IBGE
+# Este app é de uso exclusivo para servidores do IBGE
 
-# Criador E-mail para Econômicas Mensais
+Este aplicativo foi criado com o objetivo de automatizar algumas funções e agilizar as atividades diárias dos servidores do IBGE.
 
-# Descrição:
+## Gerador de E-mail para Econômicas Mensais
 
-Este app é uma ferramenta interna, não oficial, do IBGE desenvolvida para automatizar o envio de e-mails para as pesquisas das Econômicas Mensais.
+Gerador de E-mail para Econômicas Mensais é uma ferramenta interna, não oficial. No entanto, é importante ressaltar que seu uso deve ser feito por conta e risco próprios.
 
-# Link de acesso:
-(logo logo!)
+## Descrição:
+
+Esta ferramenta foi desenvolvida com a finalidade de automatizar o envio de e-mails referentes às pesquisas das Econômicas Mensais, utilizando os modelos cadastrados previamente.
+
+## Link de acesso:
+
+Para acessar o aplicativo, clique no seguinte link: [Gerador de E-mails - Release](https://vandreborba.github.io/gerador_email_release/)
