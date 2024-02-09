@@ -4,7 +4,7 @@ Este aplicativo foi criado com o objetivo de automatizar algumas funções e agi
 
 ## Gerador de E-mail para Econômicas Mensais
 
-Gerador de E-mail para Econômicas Mensais é uma ferramenta interna, não oficial. No entanto, é importante ressaltar que seu uso deve ser feito por conta e risco próprios.
+Gerador de E-mail para Econômicas Mensais é uma ferramenta interna, não oficial. Desta forma, é importante ressaltar que seu uso deve ser feito por conta e risco próprios.
 
 ## Descrição:
 
